@@ -82,13 +82,28 @@ const youthCtx = document.getElementById('youthChart');
 new Chart(youthCtx, {
     type: 'line',
     data: {
-        labels: ['2019', '2020', '2021', '2022', '2023'],
+        labels: ['2019', '2020', '2021', '2022', '2023', '2024', 'Dec 2025', 'Jan 2026'],
         datasets: [{
-            label: 'Youth Unemployment Rate (%)',
-            data: [11, 20, 15, 10, 12],
+            label: 'Canada Youth Unemployment Rate (%)',
+            data: [10.74, 20.12, 13.56, 10.08, 10.81, 12.96, 13.3, 12.8],
+            borderColor: '#ff8c00',
             borderWidth: 2,
             fill: false
         }]
+    },
+    options: {
+        responsive: true,
+        scales: {
+            y: {
+                beginAtZero: false
+            }
+        },
+        plugins: {
+            title: {
+                display: true,
+                text: 'Youth Unemployment in Canada (2019–Jan 2026)'
+            }
+        }
     }
 });
 </script>
@@ -98,6 +113,7 @@ new Chart(youthCtx, {
 
 </body>
 </html>
+
 
 
 

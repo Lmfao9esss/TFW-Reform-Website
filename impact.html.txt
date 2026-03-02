@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Who It Affects</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Who It Affects</h1>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="problem.html">The Problem</a>
+    <a href="impact.html">Who It Affects</a>
+    <a href="solutions.html">Solutions</a>
+    <a href="data.html">Data</a>
+</nav>
+
+<section class="fade-in">
+    <h2>High School Students</h2>
+    <p>
+        Entry-level jobs provide essential work experience. Reduced hiring of youth
+        can affect long-term career development.
+    </p>
+
+    <h2>Canadian Workers</h2>
+    <p>
+        Increased labor supply in low-wage sectors may limit wage growth.
+    </p>
+
+    <h2>Temporary Foreign Workers</h2>
+    <p>
+        Workers may face vulnerability and dependency on employers.
+    </p>
+
+    <h2>Communities</h2>
+    <p>
+        Rapid population growth increases pressure on housing and public services.
+    </p>
+</section>
+
+<footer>
+    Immigration Reform Project
+</footer>
+
+</body>
+</html>

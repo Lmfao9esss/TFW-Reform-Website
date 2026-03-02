@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TFW Reform | Home</title>
+    <link rel="stylesheet" href="style.css">
+    <script defer src="script.js"></script>
+</head>
+
+<body>
+
+<header>
+    <h1>Reforming Canada's Temporary Foreign Worker Program</h1>
+    <p>A Sustainable Immigration Strategy</p>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="problem.html">The Problem</a>
+    <a href="impact.html">Who It Affects</a>
+    <a href="solutions.html">Solutions</a>
+    <a href="data.html">Data</a>
+</nav>
+
+<section class="fade-in">
+    <h2>Introduction</h2>
+    <p>
+        Canada relies on Temporary Foreign Workers (TFWs) to fill labor shortages.
+        However, rapid growth in low-skill permits has raised concerns about youth employment,
+        wage stagnation, housing pressure, and long-term productivity.
+    </p>
+
+    <div class="highlight">
+        This website proposes reducing TFW growth to 2%, limiting low-skill permits,
+        and prioritizing high-skill immigration.
+    </div>
+</section>
+
+<footer>
+    Immigration Reform Project | Student Website
+</footer>
+
+</body>
+</html>

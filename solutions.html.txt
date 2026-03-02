@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Solutions</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Proposed Solutions</h1>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="problem.html">The Problem</a>
+    <a href="impact.html">Who It Affects</a>
+    <a href="solutions.html">Solutions</a>
+    <a href="data.html">Data</a>
+</nav>
+
+<section class="fade-in">
+    <h2>1. Reduce TFW Growth to 2%</h2>
+    <p>
+        Slows pressure on housing and infrastructure.
+    </p>
+
+    <h2>2. Limit Low-Skill Permits</h2>
+    <p>
+        Require proof of labor shortages and encourage wage increases before approval.
+    </p>
+
+    <h2>3. Increase High-Skill Immigration</h2>
+    <p>
+        Focus on healthcare, engineering, skilled trades, and technology
+        to improve productivity and tax contributions.
+    </p>
+
+    <div class="highlight">
+        A skills-focused immigration strategy promotes sustainable economic growth.
+    </div>
+</section>
+
+<footer>
+    Immigration Reform Project
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>The Problem</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>The Current Problem</h1>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="problem.html">The Problem</a>
+    <a href="impact.html">Who It Affects</a>
+    <a href="solutions.html">Solutions</a>
+    <a href="data.html">Data</a>
+</nav>
+
+<section class="fade-in">
+    <h2>Growth of Low-Skill TFWs</h2>
+    <p>
+        The increase in low-skill TFW permits allows companies to hire foreign workers
+        in retail, food service, and entry-level sectors.
+    </p>
+
+    <div class="highlight">
+        When employers rely on lower-cost foreign labor,
+        they may reduce hiring of Canadian youth and delay wage increases.
+    </div>
+
+    <p>
+        This can slow wage growth, reduce opportunities for high school students,
+        and increase dependency on low-cost labor instead of innovation.
+    </p>
+</section>
+
+<footer>
+    Immigration Reform Project
+</footer>
+
+</body>
+</html>
